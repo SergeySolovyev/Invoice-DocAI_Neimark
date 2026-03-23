@@ -1,0 +1,15 @@
+jupyterlab
+numpy
+pandas
+pillow
+opencv-python
+tqdm
+matplotlib
+scikit-learn
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+sentencepiece
+easyocr
